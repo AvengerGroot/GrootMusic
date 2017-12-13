@@ -195,4 +195,5 @@ client.on("message", function (message) {
     }
 });
 
-client.login("MzcxNzgwODM0OTEyNTAxNzYw.DQ-wvA.hmbfIglV3xCnITsV-kUxsym4aZk");
+client.login(process.env.BOT_TOKEN);
+
