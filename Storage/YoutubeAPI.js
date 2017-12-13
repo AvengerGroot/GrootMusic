@@ -1,4 +1,4 @@
-var google = require('googleapis');
+var google = require('googleapis.ts');
 
 module.exports = {
     getVideo: function (query) {
